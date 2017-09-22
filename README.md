@@ -16,3 +16,5 @@ http://archive-ipq-co.narod.ru/ - php for autists;
 
 http://getjump.me/ru-php-the-right-way/ - PHP: Right Way;
 
+https://www.kobzarev.com/wp-content/uploads/books/php/PHPbook.pdf - PHP HR's FAQ
+
